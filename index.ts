@@ -1,1 +1,1 @@
-console.log("samuel is a girl");
+console.log("samuel is a child of God");
